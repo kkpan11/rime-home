@@ -1,38 +1,34 @@
-title: Rime 三部曲
-date: 2025-01-27 22:34:03
+title: Rime 主題曲
+date: 2025-03-01 00:00:00
 tags:
 ---
 
 <figure>
-  <figcaption>中州韻</figcaption>
-  <audio controls src="/media/中州韻.mp3"></audio>
-</figure>
-
-<hr/>
-
-<figure>
-  <figcaption>小狼毫</figcaption>
-  <audio controls src="/media/小狼毫.mp3"></audio>
-</figure>
-
-<hr/>
-
-<figure>
-  <figcaption>鼠鬚管</figcaption>
-  <audio controls src="/media/鼠鬚管.mp3"></audio>
+  <p><figcaption>中州韻輸入法主題曲〈鼠鬚管〉</figcaption></p>
+  <p><audio controls src="/media/RIME_主題曲_鼠鬚管.mp3"></audio></p>
 </figure>
 
 鼠鬚管
 奉送原甫侍讀出守永興／蒼頡轉世賦／題中州韻輸入法
 作詞：〔宋〕歐陽脩　居戎氏
-選詞　作曲：居戎氏
+作曲：居戎氏
 
 <!-- more -->
 
+酌君以荊州魚枕之蕉
+贈君以宣城䑕須之管
 酒如長虹飲滄海
 筆若駿馬馳平坂
+
+魚枕蕉　一舉十分當覆盞
+䑕須管　為物雖㣲情不淺
+新詩醉墨時一揮
+別後寄我無辭逺
+
+愛君尚少力方豪
+嗟我久衰歡漸鮮
 文章驚世知名早
-義氣論交相得晚
+意氣論交相得晚
 
 蒼頡公轉世　巧匠出河陰
 中州韻豈言是凡品
@@ -60,6 +56,22 @@ tags:
 開彼源兮　斯流永繼
 
 新詩醉墨時一揮
-別後寄我無辭遠
+別後寄我無辭逺
 
-<hr/>
+
+## Rime 三部曲
+
+<figure>
+  <p><figcaption>中州韻</figcaption></p>
+  <p><audio controls src="/media/RIME_三部曲之一_中州韻.mp3"></audio></p>
+</figure>
+
+<figure>
+  <p><figcaption>小狼毫</figcaption></p>
+  <p><audio controls src="/media/RIME_三部曲之二_小狼毫.mp3"></audio></p>
+</figure>
+
+<figure>
+  <p><figcaption>鼠鬚管</figcaption></p>
+  <p><audio controls src="/media/RIME_三部曲之三_鼠鬚管.mp3"></audio></p>
+</figure>
